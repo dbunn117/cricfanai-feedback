@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Coverage and methodology
+    url: https://cricfanai.com/about
+    about: What the dataset covers and how each stat is defined — most "wrong" numbers are coverage, not calculation.
